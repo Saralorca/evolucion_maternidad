@@ -13,10 +13,9 @@ La maternidad desempeña un papel crucial en a sociedad y, sobre todo, en la vid
 - `src/`: Scripts de Python con funciones personalizadas para la limpieza de datos y análisis de los mismos.
 - `requirements.txt`: Listado de librerías necesarias (Pandas, Seaborn, etc.) para ejecutar el proyecto.
 - `.gitignore`: Archivo para evitar la subida de archivos basura y el entorno virtual (venv/).
+- `evolución_maternidad.pbix`: Archivo de PowerBI que contiene diferentes visualizaciones para el análisis de los datos. 
 
 ## **Metodología y Limpieza de Datos:**
-
-**Análisis preliminar de los datos**
 
 Se ha realizado un proceso exhaustivo de limpieza para asegurar la integridad del análisis:
 
