@@ -32,13 +32,13 @@ Se ha realizado un proceso exhaustivo de limpieza para asegurar la integridad de
 - **Adopción como alternativa**: Hay un consenso muy alto en la adopción como alternativa válida a la maternidad biológica (8,74/10).
 - **Posición ideológica**: Hay una mayor inclinación por parte de las mujeres encuestadas a una ideología de izquierdas (3,61/10).
 
-##**Análisis comparativo ideología-percepción de la maternidad**
+## **Análisis comparativo ideología-percepción de la maternidad**
 
 - En la percepción de la maternidad como una obligación o deber hemos comprobado que existen diferencias significativas entre los grupos ideológicos a través de las pruebas estadísticas de normalidad. Además, también podemos observarlas a través del primer gráfico: Las mujeres con una ideología de derecha tienden a estar más de acuerdo con que la sociedad percibe la maternidad como una obligación o deber, mientras que las mujeres con una ideología de derecha, tienden a estar más en desacuerdo.
 - En la percepción de la maternidad como una elección también existen diferencias significativas entre los grupos. El segundo gráfico nos muestra lo contrario al caso anterior, es decir, las mujeres con una ideología de derecha tienden a estar de acuerdo con que la sociedad percibe la maternidad como una elección, mientras que las de una ideología de izquierda tienden a estar más en desacuerdo.
 - En la percepción de la maternidad como un derecho ocurre lo mismo que en el primer caso.
 
-##**Conclusiones**
+## **Conclusiones**
 
 Tras haber realizado un análisis exhaustivo de los resultados obtenidos podemos llegar a varias conclusiones. En primer lugar, hemos visto que más de la mitad de las mujeres encuestadas tienen hijos o hijas, asimismo, la mayoría de las mujeres que no son madres también desearían serlo. En segundo lugar, la edad media a la que las madres, en este caso, han tenido su primer/a hijo/a es a los 28,66 años, cifra más baja que la edad media a la maternidad en España -según el Instituto Nacional de Estadística (INE) en 2024 era de 32,61 años-. Principalmente, las mujeres que quieren ser madres desearían serlo entre los 30 y 35 años.
 
